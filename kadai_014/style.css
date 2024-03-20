@@ -1,0 +1,31 @@
+html {
+  /* bodyのフォント種類 */
+    font-size: 20px;
+    text-align: center;
+  }
+body {
+  /* bodyのフォント種類 */
+    font-family: "Arial", "Meiryo", sans-serif;
+  }
+  .decoration {
+    /* h1のフォントにGoogle Fontsを「Josefin Sans」を指定、総称フォントは「sans-serif」 */
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:500;
+    font-style: normal;
+    /* ルート要素のフォントサイズを20pxにし、h1はその2倍 */
+    font-size: 2em;
+    letter-spacing: 1.2em;
+    text-shadow: 1px 1px 2px gray;
+    border-bottom: solid 3px rgb(115, 115, 114);
+  }
+  .text-pink {
+    color:rgb(255, 192, 203);
+  }
+  .text-skyblue {
+    color:skyblue;
+  }
+  #basic > p {
+    font-weight: bold;
+  }
+  
