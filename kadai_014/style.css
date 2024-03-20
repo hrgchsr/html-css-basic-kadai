@@ -14,7 +14,7 @@ body {
     font-weight:500;
     font-style: normal;
     /* ルート要素のフォントサイズを20pxにし、h1はその2倍 */
-    font-size: 2em;
+    font-size: 2rem;
     letter-spacing: 1.2em;
     text-shadow: 1px 1px 2px gray;
     border-bottom: solid 3px rgb(115, 115, 114);
